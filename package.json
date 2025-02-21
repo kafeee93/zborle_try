@@ -1,6 +1,6 @@
 {
   "name": "wordle",
-  "homepage": "wordle",
+  "homepage": "https://github.com/kafeee93/zborle_try",
   "version": "0.8.0-SNAPSHOT",
   "private": true,
   "dependencies": {
